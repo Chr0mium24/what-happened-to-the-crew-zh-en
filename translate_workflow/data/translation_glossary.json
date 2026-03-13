@@ -1,0 +1,489 @@
+{
+  "proper_nouns": {
+    "Niflheim": "尼福尔海姆",
+    "Vanaheim": "瓦纳海姆",
+    "Bifrost": "彩虹桥",
+    "Kepler-186f": "开普勒-186f",
+    "Bushmonkey": "Bushmonkey",
+    "BIFROST": "彩虹桥",
+    "ROVER-1": "漫游者-1号",
+    "Dana": "达娜",
+    "Jackie": "杰基",
+    "Leonard McCoy": "伦纳德·麦科伊",
+    "Carl Holden": "卡尔·霍尔登",
+    "Astro-whatever": "天文专家",
+    "Executive Report: Weather Patterns": "执行报告：气象模式",
+    "Rover": "漫游者",
+    "Robert Ryan": "罗伯特·瑞安",
+    "energy-based entity": "基于能量的实体",
+    "scientific paper": "科学论文",
+    "Dana Rogan": "达娜·罗根",
+    "extremophilic bacteria": "极端嗜好性细菌",
+    "16S rRNA gene sequencing": "16S rRNA基因测序",
+    "Dr. Dana Rogan": "达娜·罗根博士",
+    "16S rRNA": "16S rRNA",
+    "Bryophyta": "苔藓植物",
+    "Dr. Michael Grimm": "迈克尔·格里姆博士",
+    "HPLC": "高效液相色谱法",
+    "SEM": "扫描电子显微镜",
+    "TEM": "透射电子显微镜",
+    "FTIR": "傅里叶变换红外光谱",
+    "Raman": "拉曼光谱",
+    "astrobotany": "天体植物学",
+    "rover": "漫游者",
+    "quantum portals": "量子通道",
+    "Technician Kozlov": "技术员科兹洛夫",
+    "Commander Cross": "克罗斯指挥官",
+    "Mr McCoy": "麦科伊先生",
+    "Butcher": "屠夫",
+    "The Warlock": "术士",
+    "The Blacksmith": "铁匠",
+    "Isaac": "艾萨克",
+    "Sebastian": "塞巴斯蒂安",
+    "Libby": "莉比",
+    "Darcy": "达西",
+    "Alex": "亚历克斯",
+    "Vance": "万斯",
+    "Jackson": "杰克逊",
+    "Barry": "巴里",
+    "Bobby": "博比",
+    "Carl": "卡尔",
+    "Dr. Darcy": "达西博士",
+    "Commander": "指挥官",
+    "Zack": "扎克",
+    "Lenny": "伦尼",
+    "Michael": "迈克尔",
+    "Elizabeth": "伊丽莎白",
+    "bridge": "舰桥",
+    "FIND": "查找",
+    "security office": "安保室",
+    "research lab": "研究实验室",
+    "surface": "地表",
+    "medical bay": "医疗舱",
+    "cargo bay": "货舱",
+    "engine room": "引擎室",
+    "IV": "静脉注射管",
+    "kitchen": "厨房",
+    "Summoner": "召唤者",
+    "galley": "货舱",
+    "containment unit": "收容单元",
+    "pulse rifles": "脉冲步枪",
+    "Engineer Ryan": "工程师瑞安",
+    "maintenance bay": "维修舱",
+    "Engine Room": "引擎室",
+    "Ensign Holden": "少尉霍尔登",
+    "Comms Specialist Jackson": "通讯专家杰克逊",
+    "Security Officer Vance": "安保官万斯",
+    "Chef McCoy": "厨师麦科伊",
+    "The Martian": "火星救援",
+    "Niflheim Station": "尼福尔海姆空间站",
+    "Rover 1": "漫游者-1号",
+    "Jacqueline Dupont": "杰奎琳·杜邦",
+    "Isaac Kozlov": "艾萨克·科兹洛夫",
+    "Research Lab": "研究实验室",
+    "maintenance room": "维修舱",
+    "antigrav module": "反重力模块",
+    "pulse rifle": "脉冲步枪"
+  },
+  "style": {
+    "tone": "sci-fi mystery, concise but atmospheric",
+    "output": "Simplified Chinese"
+  },
+  "ai_generated": [
+    {
+      "source": "BIFROST",
+      "target": "彩虹桥",
+      "category": "lore"
+    },
+    {
+      "source": "ROVER-1",
+      "target": "漫游者-1号",
+      "category": "equipment"
+    },
+    {
+      "source": "Dana",
+      "target": "达娜",
+      "category": "name"
+    },
+    {
+      "source": "Jackie",
+      "target": "杰基",
+      "category": "name"
+    },
+    {
+      "source": "Leonard McCoy",
+      "target": "伦纳德·麦科伊",
+      "category": "name"
+    },
+    {
+      "source": "Carl Holden",
+      "target": "卡尔·霍尔登",
+      "category": "character"
+    },
+    {
+      "source": "Astro-whatever",
+      "target": "天文专家",
+      "category": "term"
+    },
+    {
+      "source": "Executive Report: Weather Patterns",
+      "target": "执行报告：气象模式",
+      "category": "document"
+    },
+    {
+      "source": "Rover",
+      "target": "漫游者",
+      "category": "equipment"
+    },
+    {
+      "source": "Robert Ryan",
+      "target": "罗伯特·瑞安",
+      "category": "character"
+    },
+    {
+      "source": "energy-based entity",
+      "target": "基于能量的实体",
+      "category": "lore"
+    },
+    {
+      "source": "scientific paper",
+      "target": "科学论文",
+      "category": "document"
+    },
+    {
+      "source": "Dana Rogan",
+      "target": "达娜·罗根",
+      "category": "character"
+    },
+    {
+      "source": "extremophilic bacteria",
+      "target": "极端嗜好性细菌",
+      "category": "scientific"
+    },
+    {
+      "source": "16S rRNA gene sequencing",
+      "target": "16S rRNA基因测序",
+      "category": "scientific"
+    },
+    {
+      "source": "Dr. Dana Rogan",
+      "target": "达娜·罗根博士",
+      "category": "person"
+    },
+    {
+      "source": "16S rRNA",
+      "target": "16S rRNA",
+      "category": "technical term"
+    },
+    {
+      "source": "Bryophyta",
+      "target": "苔藓植物",
+      "category": "biology"
+    },
+    {
+      "source": "Dr. Michael Grimm",
+      "target": "迈克尔·格里姆博士",
+      "category": "person"
+    },
+    {
+      "source": "HPLC",
+      "target": "高效液相色谱法",
+      "category": "science"
+    },
+    {
+      "source": "SEM",
+      "target": "扫描电子显微镜",
+      "category": "science"
+    },
+    {
+      "source": "TEM",
+      "target": "透射电子显微镜",
+      "category": "science"
+    },
+    {
+      "source": "FTIR",
+      "target": "傅里叶变换红外光谱",
+      "category": "science"
+    },
+    {
+      "source": "Raman",
+      "target": "拉曼光谱",
+      "category": "science"
+    },
+    {
+      "source": "astrobotany",
+      "target": "天体植物学",
+      "category": "science"
+    },
+    {
+      "source": "rover",
+      "target": "漫游者",
+      "category": "technology"
+    },
+    {
+      "source": "quantum portals",
+      "target": "量子通道",
+      "category": "science"
+    },
+    {
+      "source": "Technician Kozlov",
+      "target": "技术员科兹洛夫",
+      "category": "person"
+    },
+    {
+      "source": "Commander Cross",
+      "target": "克罗斯指挥官",
+      "category": "person"
+    },
+    {
+      "source": "Mr McCoy",
+      "target": "麦科伊先生",
+      "category": "person"
+    },
+    {
+      "source": "Butcher",
+      "target": "屠夫",
+      "category": "title"
+    },
+    {
+      "source": "The Warlock",
+      "target": "术士",
+      "category": "title"
+    },
+    {
+      "source": "The Blacksmith",
+      "target": "铁匠",
+      "category": "title"
+    },
+    {
+      "source": "Isaac",
+      "target": "艾萨克",
+      "category": "name"
+    },
+    {
+      "source": "Sebastian",
+      "target": "塞巴斯蒂安",
+      "category": "name"
+    },
+    {
+      "source": "Libby",
+      "target": "莉比",
+      "category": "name"
+    },
+    {
+      "source": "Darcy",
+      "target": "达西",
+      "category": "name"
+    },
+    {
+      "source": "Alex",
+      "target": "亚历克斯",
+      "category": "name"
+    },
+    {
+      "source": "Vance",
+      "target": "万斯",
+      "category": "name"
+    },
+    {
+      "source": "Jackson",
+      "target": "杰克逊",
+      "category": "name"
+    },
+    {
+      "source": "Barry",
+      "target": "巴里",
+      "category": "name"
+    },
+    {
+      "source": "Bobby",
+      "target": "博比",
+      "category": "character"
+    },
+    {
+      "source": "Carl",
+      "target": "卡尔",
+      "category": "character"
+    },
+    {
+      "source": "Dr. Darcy",
+      "target": "达西博士",
+      "category": "character"
+    },
+    {
+      "source": "Commander",
+      "target": "指挥官",
+      "category": "title"
+    },
+    {
+      "source": "Zack",
+      "target": "扎克",
+      "category": "character"
+    },
+    {
+      "source": "Lenny",
+      "target": "伦尼",
+      "category": "character"
+    },
+    {
+      "source": "Michael",
+      "target": "迈克尔",
+      "category": "character"
+    },
+    {
+      "source": "Elizabeth",
+      "target": "伊丽莎白",
+      "category": "person_name"
+    },
+    {
+      "source": "bridge",
+      "target": "舰桥",
+      "category": "location"
+    },
+    {
+      "source": "FIND",
+      "target": "查找",
+      "category": "command"
+    },
+    {
+      "source": "security office",
+      "target": "安保室",
+      "category": "location"
+    },
+    {
+      "source": "research lab",
+      "target": "研究实验室",
+      "category": "location"
+    },
+    {
+      "source": "surface",
+      "target": "地表",
+      "category": "location"
+    },
+    {
+      "source": "medical bay",
+      "target": "医疗舱",
+      "category": "location"
+    },
+    {
+      "source": "cargo bay",
+      "target": "货舱",
+      "category": "location"
+    },
+    {
+      "source": "engine room",
+      "target": "引擎室",
+      "category": "location"
+    },
+    {
+      "source": "IV",
+      "target": "静脉注射管",
+      "category": "item"
+    },
+    {
+      "source": "kitchen",
+      "target": "厨房",
+      "category": "location"
+    },
+    {
+      "source": "Summoner",
+      "target": "召唤者",
+      "category": "title"
+    },
+    {
+      "source": "galley",
+      "target": "货舱",
+      "category": "location"
+    },
+    {
+      "source": "containment unit",
+      "target": "收容单元",
+      "category": "item"
+    },
+    {
+      "source": "pulse rifles",
+      "target": "脉冲步枪",
+      "category": "item"
+    },
+    {
+      "source": "Engineer Ryan",
+      "target": "工程师瑞安",
+      "category": "person"
+    },
+    {
+      "source": "maintenance bay",
+      "target": "维修舱",
+      "category": "location"
+    },
+    {
+      "source": "Engine Room",
+      "target": "引擎室",
+      "category": "location"
+    },
+    {
+      "source": "Ensign Holden",
+      "target": "少尉霍尔登",
+      "category": "person"
+    },
+    {
+      "source": "Comms Specialist Jackson",
+      "target": "通讯专家杰克逊",
+      "category": "person"
+    },
+    {
+      "source": "Security Officer Vance",
+      "target": "安保官万斯",
+      "category": "person"
+    },
+    {
+      "source": "Chef McCoy",
+      "target": "厨师麦科伊",
+      "category": "person"
+    },
+    {
+      "source": "The Martian",
+      "target": "火星救援",
+      "category": "media"
+    },
+    {
+      "source": "Niflheim Station",
+      "target": "尼福尔海姆空间站",
+      "category": "place"
+    },
+    {
+      "source": "Rover 1",
+      "target": "漫游者-1号",
+      "category": "equipment"
+    },
+    {
+      "source": "Jacqueline Dupont",
+      "target": "杰奎琳·杜邦",
+      "category": "character"
+    },
+    {
+      "source": "Isaac Kozlov",
+      "target": "艾萨克·科兹洛夫",
+      "category": "character"
+    },
+    {
+      "source": "Research Lab",
+      "target": "研究实验室",
+      "category": "location"
+    },
+    {
+      "source": "maintenance room",
+      "target": "维修舱",
+      "category": "location"
+    },
+    {
+      "source": "antigrav module",
+      "target": "反重力模块",
+      "category": "equipment"
+    },
+    {
+      "source": "pulse rifle",
+      "target": "脉冲步枪",
+      "category": "equipment"
+    }
+  ]
+}
